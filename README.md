@@ -1,7 +1,7 @@
 <div align="center">
 
-# netbook-kernel-configs
+# reizsh-kernel-configs
 
-**Repository with Linux kernel configurations for netbooks**
+**Repository with Linux kernel configurations for netbook**
 
 </div>
